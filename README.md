@@ -1,18 +1,14 @@
-## Getting Started
+# This is a guessing words game 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is guessing words game, giving you a hidden word
+with underline note instead od the letters.
+Of every correct guessing the hidden word will reveal the letter    
 
-## Folder Structure
+The project build using Java.
 
-The workspace contains two folders by default, where:
+##  execution
+    The file Words_guess.bat execute the game on cmd.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
